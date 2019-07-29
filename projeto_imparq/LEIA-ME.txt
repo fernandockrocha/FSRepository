@@ -1,0 +1,5 @@
+Via prompt de comando (CMD), executar:
+
+java -jar imparq.jar
+
+REQUISITOS: java 8
